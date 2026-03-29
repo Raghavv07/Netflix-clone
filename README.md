@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/0Kzd4k1YuCA)
+[Live Link](https://netflix-clone-4sb2.onrender.com)
 
 About This Course:
 
